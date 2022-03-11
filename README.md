@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**thinhdanggroup/thinhdanggroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Thinh Dang](https://github.com/thinhdanggroup), a Software Engineer from Vietnam.
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=tranngoclam.tranngoclam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhdanggroup&langs_count=6&hide=JavaScript,CSS,HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=thinhdanggroup&show_icons=true&theme=radical" />
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
