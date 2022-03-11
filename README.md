@@ -9,12 +9,3 @@ I'm [Thinh Dang](https://github.com/thinhdanggroup), a Software Engineer from Vi
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=thinhdanggroup&show_icons=true&theme=radical" />
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
