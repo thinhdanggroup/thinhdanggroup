@@ -1,19 +1,20 @@
 # Hi, I'm Thinh Dang 👋
 
-Senior Software Engineer based in Vietnam, building reliable backend systems and developer tooling.
+Engineering Manager at Trusting Social with 8+ years of hands-on software engineering experience, based in Vietnam.
 
 ## What I Do
 
-- Design and scale distributed systems and microservices
-- Build high-throughput data pipelines and streaming infrastructure
-- Write mostly Go, Python, and a touch of Rust
-- Care deeply about observability, performance, and clean API design
+- Lead and build scalable backend systems, APIs, and platform services
+- Work across distributed systems, microservices, and event-driven architecture
+- Code primarily in Go and Python, with a focus on reliability and performance
+- Care deeply about developer experience, observability, and clean architecture
 
 ## Current Focus
 
+- Building strong engineering teams and practical technical direction
+- Improving platform reliability and delivery speed
 - Exploring AI-assisted developer workflows
-- Deepening expertise in event-driven architecture and Kafka-based systems
-- Contributing to open-source tooling around platform engineering
+- Deepening expertise in Kafka-based and event-driven systems
 
 ## Featured Projects
 
@@ -26,7 +27,7 @@ Senior Software Engineer based in Vietnam, building reliable backend systems and
 ## Connect
 
 - Blog: [thinhdanggroup.github.io](https://thinhdanggroup.github.io)
-- LinkedIn: [linkedin.com/in/thinh-dang](https://www.linkedin.com/in/thinh-dang-b66164122/)
+- LinkedIn: [linkedin.com/in/thinh-dang](https://www.linkedin.com/in/thinh-dang)
 - Email: thinh.dang2@trustingsocial.com
 
 ---
