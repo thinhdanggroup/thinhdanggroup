@@ -1,6 +1,6 @@
 # Hi, I'm Thinh Dang 👋
 
-Engineering Manager at Trusting Social with 8+ years of hands-on software engineering experience, based in Vietnam.
+Engineering Manager with 8+ years of hands-on software engineering experience, based in Vietnam.
 
 ## What I Do
 
