@@ -20,9 +20,9 @@ Engineering Manager at Trusting Social with 8+ years of hands-on software engine
 
 | Project | Description |
 |---|---|
-| [execbox](https://github.com/thinhdanggroup/execbox) | Secure remote code execution sandbox |
-| [topic_writer](https://github.com/thinhdanggroup/topic_writer) | Kafka topic management CLI |
-| [flugel](https://github.com/thinhdanggroup/flugel) | Lightweight workflow engine in Go |
+| [spring_grpc_http](https://github.com/thinhdanggroup/spring_grpc_http) | gRPC and HTTP API integration with Spring |
+| [livekit-dashboard](https://github.com/thinhdanggroup/livekit-dashboard) | Dashboard work for LiveKit operations |
+| [personal-api-gateway](https://github.com/thinhdanggroup/personal-api-gateway) | API gateway project with reusable backend patterns |
 
 ## Connect
 
