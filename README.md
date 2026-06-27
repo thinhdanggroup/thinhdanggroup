@@ -1,11 +1,34 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Thinh Dang 👋
 
-I'm [Thinh Dang](https://github.com/thinhdanggroup), a Software Engineer from Vietnam.
+Senior Software Engineer based in Vietnam, building reliable backend systems and developer tooling.
 
-![](https://visitor-badge.glitch.me/badge?page_id=tranngoclam.tranngoclam)
+## What I Do
 
+- Design and scale distributed systems and microservices
+- Build high-throughput data pipelines and streaming infrastructure
+- Write mostly Go, Python, and a touch of Rust
+- Care deeply about observability, performance, and clean API design
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhdanggroup&langs_count=6&hide=JavaScript,CSS,HTML,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+## Current Focus
 
+- Exploring AI-assisted developer workflows
+- Deepening expertise in event-driven architecture and Kafka-based systems
+- Contributing to open-source tooling around platform engineering
 
-<img src="https://github-readme-stats.vercel.app/api?username=thinhdanggroup&show_icons=true&theme=radical" />
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [execbox](https://github.com/thinhdanggroup/execbox) | Secure remote code execution sandbox |
+| [topic_writer](https://github.com/thinhdanggroup/topic_writer) | Kafka topic management CLI |
+| [flugel](https://github.com/thinhdanggroup/flugel) | Lightweight workflow engine in Go |
+
+## Connect
+
+- Blog: [thinhdanggroup.github.io](https://thinhdanggroup.github.io)
+- LinkedIn: [linkedin.com/in/thinh-dang](https://www.linkedin.com/in/thinh-dang-b66164122/)
+- Email: thinh.dang2@trustingsocial.com
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thinhdanggroup&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
