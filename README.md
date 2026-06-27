@@ -1,20 +1,20 @@
 # Hi, I'm Thinh Dang 👋
 
-Engineering Manager with 8+ years of hands-on software engineering experience, based in Vietnam.
+Engineering Manager and hands-on technical leader with 8+ years building and scaling backend systems. I set technical direction, grow engineering teams, and deliver high-reliability platform infrastructure.
 
 ## What I Do
 
-- Lead and build scalable backend systems, APIs, and platform services
-- Work across distributed systems, microservices, and event-driven architecture
-- Code primarily in Go and Python, with a focus on reliability and performance
-- Care deeply about developer experience, observability, and clean architecture
+- Define technical strategy for backend and platform systems — from architecture decisions to production operations
+- Architect and operate distributed systems, microservices, and event-driven pipelines at scale
+- Hands-on in Go and Python: writing, reviewing, and owning critical systems end-to-end
+- Champion observability, clean architecture, and engineering practices that raise the whole team's baseline
 
 ## Current Focus
 
-- Building strong engineering teams and practical technical direction
-- Improving platform reliability and delivery speed
-- Exploring AI-assisted developer workflows
-- Deepening expertise in Kafka-based and event-driven systems
+- Setting technical direction and growing senior engineers into tech leads
+- Driving platform reliability improvements and reducing toil across the delivery pipeline
+- Integrating AI tooling into engineering workflows to amplify team throughput
+- Deepening expertise in Kafka-based event streaming and high-throughput data pipelines
 
 ## Featured Projects
 
