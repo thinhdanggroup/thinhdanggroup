@@ -28,7 +28,7 @@ Engineering Manager and hands-on technical leader with 8+ years building and sca
 
 - Blog: [thinhdanggroup.github.io](https://thinhdanggroup.github.io)
 - LinkedIn: [linkedin.com/in/thinh-dang](https://www.linkedin.com/in/thinh-dang)
-- Email: thinh.dang2@trustingsocial.com
+- Email: thinhdang206@gmail.com
 
 ---
 
