@@ -32,4 +32,17 @@ Engineering Manager and hands-on technical leader with 8+ years building and sca
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thinhdanggroup&show_icons=true&theme=radical&hide_title=true)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=thinhdanggroup&show_icons=true&include_all_commits=true&hide=contribs&show=prs_merged,all_time_contribs&rank_icon=github&hide_title=true&card_width=420&theme=dark_github" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=thinhdanggroup&show_icons=true&include_all_commits=true&hide=contribs&show=prs_merged,all_time_contribs&rank_icon=github&hide_title=true&card_width=420&theme=light_github" alt="Thinh Dang's GitHub stats" />
+  </picture>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=thinhdanggroup&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,jinja&size_weight=0.5&count_weight=0.5&hide_title=true&card_width=380&theme=dark_github" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=thinhdanggroup&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,jinja&size_weight=0.5&count_weight=0.5&hide_title=true&card_width=380&theme=light_github" alt="Top languages" />
+  </picture>
+  </a>
+</p>
